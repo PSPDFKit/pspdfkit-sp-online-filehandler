@@ -12,6 +12,11 @@ const actions = [
             "file": {
                 "extensions": [
                     ".pdf",
+                    ".png",
+                    ".jpg",
+                    ".jpeg",
+                    ".tif",
+                    ".tiff",
                 ],
             },
             "web": {
